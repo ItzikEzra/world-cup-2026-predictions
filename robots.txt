@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itzikezra.github.io/world-cup-2026-predictions/sitemap.xml
